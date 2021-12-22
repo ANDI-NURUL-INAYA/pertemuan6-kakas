@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DaftarBukuProject</string>
+    <string name="title_activity_menu">menu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="judul">judul</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="judul_buku">judul-buku</string>
+    <string name="about">About</string>
+</resources>
